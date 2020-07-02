@@ -17,7 +17,7 @@
 			<h1> Jack Mandell </h1>
 			<div class="sub-title"> Artist - Cellist - Fisherman </div>
 
-			<p> I have played cello for many years and enjoy listening to classical music. Wanting to continue playing cello on a consistent basis during college, I joined the University's Chamber Orchestra and have met people who appreciate classical as much as I do. I have even joined a small string ensemble with a few freinds for the upcoming semester. </p>
+			<p> I have played cello for many years and enjoy listening to classical music. Wanting to continue playing cello on a consistent basis during college, I joined the University's Chamber Orchestra and have met people who appreciate classical as much as I do. I have even joined a small string ensemble with a few friends for the upcoming semester. </p>
 			
 		
 
