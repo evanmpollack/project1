@@ -26,7 +26,8 @@
 
 		<footer>
 			<h3> Sources </h3>
-			<div> <a href="http://csc174.org/lab01/jpark174/index.php"> Here is a link </a> to the original lab01 </div>
+			<div> <a href="http://csc174.org/lab01/jpark174/index.php" target="_blank"> Here is a link </a> to the original lab01 </div>
+			<div> Created for CSC 174: Advanced Front-end Web Design and Development</div>
 		</footer>
 	</div>
 </body>
