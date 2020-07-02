@@ -7,8 +7,8 @@
 <body>
 	<div class="container">
 		<header>
-			<h1> A Little about Us </h1>
-			<div> Just a quick bio on some students working on a CSC 174 project </div>
+			<h1> A Little About Us </h1>
+			<div> learn about some students working on a CSC 174 project </div>
 		</header>
 
 		<nav>
@@ -21,7 +21,7 @@
 		</nav>
 
 		<main>
-			<h2> A Little about Jack </h2>
+			<h2> A Little About Jack </h2>
 
 			<section>
 				<h3> Summary </h3>
