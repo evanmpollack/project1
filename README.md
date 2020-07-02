@@ -11,11 +11,11 @@ The final product of this assignment must meet the following requirements:
     
     Technician: create four “stubs” - four empty HTML webpages with the proper HTML5 structure and no content. (The IA will fill-in the content next.)--DONE
 
-  Each one of the three students’ initial personal websites from Lab 1 must be refactored into single webpages (four pages into one long scrolly page) and then combined to         create   a three page website plus a new index page (four webpages, total)
+  Each one of the three students’ initial personal websites from Lab 1 must be refactored into single webpages (four pages into one long scrolly page) and then combined to create   a three page website plus a new index page (four webpages, total)
     
     IA: organize the content into the webpage “stubs” created by the Technician
     
-    IA: ensure that the document structure (article, aside, whatever) is consistent on each student-page; and ensure that the document outline (h1, h2, et cetera) is somewhat       consistent on each student-page …note: it won’t be, but you have to make it so!
+    IA: ensure that the document structure (article, aside, whatever) is consistent on each student-page; and ensure that the document outline (h1, h2, et cetera) is somewhat consistent on each student-page …note: it won’t be, but you have to make it so!
       
       Take liberties with the content as you see fit.
      
