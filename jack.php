@@ -21,7 +21,7 @@
 		</nav>
 
 		<main>
-			<h2> A Little about Jack
+			<h2> A Little about Jack </h2>
 
 			<section>
 				<h3> Summary </h3>
@@ -48,17 +48,18 @@
 
 				<section>
 
+					<h3> Cello </h3>
+					<p> I have played cello for many years and enjoy listening to classical music. Wanting to continue playing cello on a consistent basis during college, I joined the University's Chamber Orchestra and have met people who appreciate classical as much as I do. I have even joined a small string ensemble with a few friends for the upcoming semester. </p>
+
 					<figure>
 						<img src="images/cello.png" alt="cello">
 						<figcaption> A picture of a cello </figcaption>
 					</figure>
 
-					<h3> Cello </h3>
-					<p> I have played cello for many years and enjoy listening to classical music. Wanting to continue playing cello on a consistent basis during college, I joined the University's Chamber Orchestra and have met people who appreciate classical as much as I do. I have even joined a small string ensemble with a few friends for the upcoming semester. </p>
-
 				</section>
 
 				<section>
+					
 					<h3> Fishing </h3>
 					<p> I love to go fishing in the ponds around my home, as well as exploring new waters when I am traveling. I am drawn to the unpredicatability of fishing and the adventure of exploring new areas I have never fished before. Fishing has taught me a lot about patience and persistence. The feeling of fighting a large fish never gets old.    </p>
 
@@ -70,6 +71,10 @@
 				</section>
 			</article>
 		</main>
+		<footer>
+			<h3> Sources </h3>
+			<div> <a href="http://csc174.org/lab01/jmandel5/lab01/"> Here is a link </a> to the original lab01 </div>
+		</footer>
 	</div> <!-- container -->
 </body>
 </html>
