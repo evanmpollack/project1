@@ -1,0 +1,37 @@
+/*
+Code structure adapted from demo_basic-navigation.html by Robert Kostin
+Modified by Joo Eon Park
+Link: http://docs.csc170.org/09-web-navigation1/demo_basic-navigation.zip;
+*/
+.menu ul {  
+	/* undo default UL styles */
+	margin: 0;
+	padding-left: 0; 
+	list-style-type: none; /* typical - no bullets */
+
+	/* set everything inside side-by-side */
+	display: flex;
+	justify-content: center; /* options: center or space-around or space-between*/
+}
+.menu li { 
+	border-style: solid;
+	border-color:  #e2e8df;
+	border-width: 2px 2px;
+	margin-left: 8px;
+	margin-right: 8px;
+	
+} /* typical/optional - style as needed */
+.menu a { 
+	display: block; /* typical - to make a larger clickable area */
+	padding: 5px 10px;  /* typical - style as needed */
+	text-decoration: none;  /* typical - style as needed */
+	color: #e2e8df; /* typical - style as needed */
+	background-color: #88967e;
+}
+.menu a:hover {  /* typical - style as needed */
+	text-decoration: underline;
+	background-color: #E3B8BB;
+}
+.menu a.is-current {  /* required - style as needed */
+	background-color: #816982;
+}
