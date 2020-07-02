@@ -23,7 +23,7 @@ The final product of this assignment must meet the following requirements:
     
     IA: create some content for the new home page.
   
-      You can fashion it like Project 3 from CSC 170 using snippets from the sub-pages to create           “wells” (sections) with embedded links to the sub-pages …or something like that. It’s up             to you.
+      You can fashion it like Project 3 from CSC 170 using snippets from the sub-pages to create “wells” (sections) with embedded links to the sub-pages …or something like that. It’s up to you.
   
   There must be a new menu system
 
