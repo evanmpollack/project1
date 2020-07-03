@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title> project1 - Jack's Bio</title>
+    <title> project1 - Home</title>
 </head>
 <body>
 	<div class="container">
@@ -16,9 +16,27 @@
 				<li> <a href="index.php"> Home </a> </li>
 				<li> <a href="evan.php"> Evan </a> </li>
 				<li> <a href="jack.php">  Jack </a> </li>
-				<li> <a href="joo.php">  Joo </a> </li>
+				<li> <a href="joo.php">  Joo Eon </a> </li>
 			</ul>
 		</nav>
+
+		<main>
+			<h2> Meet the Team </h2>
+
+			<img src="images/face.png" alt="">
+
+			<img src="images/self.jpg" alt="">
+
+			<img src="images/me.jpg" alt=""> 
+
+			<p> <a href="evan.php" >Evan Pollack </a> , <a href="jack.php" > Jack Mandell  </a>, and <a href="joo.php" > Joo Eon Park </a> are all students in Professor Kostin's summer session of CSC 174. Currently, the students are working together on Project1: Team "Flash" Website. The students share a common passion for computer science and specifically web development and are looking forward to learning new skills in this class.    </p>
+
+			<p> When the students are not watching lectures and making websites, they enjoy a variety of hobbies and pastimes ranging from music, art, and sports. Click on their names to read a more personalized synopsis of their passions from their persepctives.  </p>
+		</main>
+
+		<footer>
+			<div> Created for CSC 174: Advanced Front-end Web Design and Development</div>
+		</footer>
 	</div>
 </body>
 </html>

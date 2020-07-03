@@ -16,7 +16,7 @@
 				<li> <a href="index.php"> Home </a> </li>
 				<li> <a href="evan.php"> Evan </a> </li>
 				<li> <a href="jack.php">  Jack </a> </li>
-				<li> <a href="joo.php">  Joo </a> </li>
+				<li> <a href="joo.php">  Joo Eon </a> </li>
 			</ul>
 		</nav>
 
