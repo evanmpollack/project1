@@ -56,6 +56,15 @@ main {
 	border-right: 15px solid #50d890;
 }
 
+main a {
+	text-decoration: none;
+	color: #D95BB0;
+}
+
+main a:hover {
+	color: #8C4274;
+}
+
 section figure {
 	grid-column: 1 / 2;
 	margin-top: 25px;
