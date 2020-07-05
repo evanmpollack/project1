@@ -2,9 +2,9 @@
 <?php include "inc/above-main.php"?>
 
 		<main>
-			<h2> A Little About Joo Eon </h2>
-
 			<article>
+			    <h2> A Little About Joo Eon </h2>
+
 				<section class="grid">
 					<figure>
 						<img src="images/me.jpg" alt="me">

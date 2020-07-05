@@ -2,9 +2,9 @@
 <?php include "inc/above-main.php"?>
 
 		<main>
-			<h2> A Little About Jack </h2>
-
 			<article>
+			    <h2> A Little About Jack </h2>
+
 				<section class="grid">
 					<figure>
 						<img src="images/face.png" alt="me">
