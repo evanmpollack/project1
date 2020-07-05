@@ -3,6 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <title> project1 - Home</title>
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+	<link rel="stylesheet" type="text/css" href="css/nav.css">
 </head>
 <body>
 	<div class="container">
@@ -23,11 +25,11 @@
 		<main>
 			<h2> Meet the Team </h2>
 
-			<img src="images/face.png" alt="">
+			<a href="jack.php"><img src="images/face.png" alt="jack" class="img-link"></a>
 
-			<img src="images/self.jpg" alt="">
+			<a href="evan.php"><img src="images/self.jpg" alt="evan" class="img-link"></a>
 
-			<img src="images/me.jpg" alt=""> 
+			<a href="joo.php"><img src="images/me.jpg" alt="jooeon" class="img-link"></a>
 
 			<p> <a href="evan.php" >Evan Pollack </a> , <a href="jack.php" > Jack Mandell  </a>, and <a href="joo.php" > Joo Eon Park </a> are all students in Professor Kostin's summer session of CSC 174. Currently, the students are working together on Project1: Team "Flash" Website. The students share a common passion for computer science and specifically web development and are looking forward to learning new skills in this class.    </p>
 

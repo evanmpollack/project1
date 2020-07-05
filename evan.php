@@ -3,6 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <title> project1 - Evan's Bio</title>
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+	<link rel="stylesheet" type="text/css" href="css/nav.css">
 </head>
 <body>
 	<div class="container">
@@ -23,20 +25,21 @@
 		<main>
 			<h2> A Little About Evan </h2>
 
-			<section>
-				<h3> Summary </h3>
-
-				<figure>
-					<img src="images/self.jpg" alt="me">
-					<figcaption> me </figcaption>
-				</figure>
-
-				<p>I am a student at the University of Rochester, which is located in Rochester, NY. My major is undecided, but I plan on minoring in computer science. I grew
-	            up in the Washington D.C. area. I have been involved in activities such as
-	            running competitively and snowboarding. </p>
-			</section>
-
 			<article> 
+
+				<section>
+
+					<figure>
+						<img src="images/self.jpg" alt="me">
+						<figcaption> me </figcaption>
+					</figure>
+
+					<h3> Summary </h3>
+					<p>I am a student at the University of Rochester, which is located in Rochester, NY. My major is undecided, but I plan on minoring in computer science. I grew
+		            up in the Washington D.C. area. I have been involved in activities such as
+		            running competitively and snowboarding. </p>
+				</section>
+
 				<section>
 					<h3> Early Life </h3>
 					<p>I was born in Washington D.C. but have always lived in Maryland with my parents
@@ -88,8 +91,8 @@
 			</article>
 		</main>
 		<footer>
-			<h3> Sources </h3>
-			<div> <a href="http://csc174.org/lab01/epollack/" target="_blank"> Here is a link </a> to the original lab01 </div>
+			<h3> Source </h3>
+			<div> <a href="http://csc174.org/lab01/epollack/" target="_blank"> Link </a> to original </div>
 			<div> Created for CSC 174: Advanced Front-end Web Design and Development</div>
 		</footer>
 	</div> <!-- container -->
