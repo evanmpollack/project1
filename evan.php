@@ -1,34 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title> project1 - Evan's Bio</title>
-    <link rel="stylesheet" type="text/css" href="css/styles.css">
-	<link rel="stylesheet" type="text/css" href="css/nav.css">
-</head>
-<body>
-	<div class="container">
-		<header>
-			<h1> A Little About Us </h1>
-			<div> learn about some students working on a CSC 174 project </div>
-		</header>
-
-		<nav>
-			<ul>
-				<li> <a href="index.php"> Home </a> </li>
-				<li> <a href="evan.php"> Evan </a> </li>
-				<li> <a href="jack.php">  Jack </a> </li>
-				<li> <a href="joo.php">  Joo Eon</a> </li>
-			</ul>
-		</nav>
+<?php $customTitle="<title>project1 - Evan's Bio</title>";?>
+<?php include "inc/above-main.php"?>
 
 		<main>
 			<h2> A Little About Evan </h2>
 
-			<article> 
-
+			<article>
 				<section>
-
 					<figure>
 						<img src="images/self.jpg" alt="me">
 						<figcaption> me </figcaption>
@@ -45,12 +22,11 @@
 					<p>I was born in Washington D.C. but have always lived in Maryland with my parents
 			        and two younger brothers, who are twins. I attended Rosemary Hills Elementary
 			        School, Barrie School, and James Hubert Blake High School.</p>
-
 				</section>
 
 				<section>
-
 					<h3> XC & Track </h3>
+
 					<p>I started running cross country in 6th grade. In middle school XC, I competed on courses roughly 2 miles long. In 7th grade, I started running track, where I
 		            mainly competed in the 1600m (~1mi) until high school. In high school XC, I competed in the 5k, where by junior year I was in the top 50 high school runners in the state (Section 3A). In indoor/outdoor track, I moved up to the 3200m (~2mi), where by junior year I was consistently in the top 15 in my county. The success in high school landed me a spot on UR's XC and indoor/outdoor track teams. Unfortunately, I got a stress fracture in my foot during my first collegiate indoor track season. After a lot of reflection, I decided to end my running career because I liked the life I had without the pressure of running.</p>
 
@@ -90,11 +66,6 @@
 				</section>
 			</article>
 		</main>
-		<footer>
-			<h3> Source </h3>
-			<div> <a href="http://csc174.org/lab01/epollack/" target="_blank"> Link </a> to original </div>
-			<div> Created for CSC 174: Advanced Front-end Web Design and Development</div>
-		</footer>
-	</div> <!-- container -->
-</body>
-</html>
+
+<?php $customLink="<a href='http://csc174.org/lab01/epollack/' target='_blank'> Link </a>";?>
+<?php include "inc/below-main.php"?>
